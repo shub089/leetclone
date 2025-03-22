@@ -1,0 +1,6 @@
+
+.problem_box {
+  cursor: pointer;
+  border: 1px black solid;
+  padding: 10px;
+}
